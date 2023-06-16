@@ -11,4 +11,4 @@
 
 const celsiy = Number.parseFloat(prompt('Введите температуру в градусах Цельсия'));
 const faringate = Math.round(((9 / 5) * celsiy + 32) * 100) / 100;
-alert(`Цельсий: ${celsiy} градус(ов), Фарингейт: ${faringate} градус(ов)`)
+alert(`Цельсий: ${celsiy} градус(ов), Фарингейт: ${faringate} градус(ов)`);

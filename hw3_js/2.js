@@ -5,6 +5,6 @@
 
 
 function greeting(name) {
-    console.log(`Привет ${name}! Рад тебя видеть ;-)`)
+    console.log(`Привет ${name}! Рад тебя видеть ;-)`);
 }
-greeting(prompt('Введите свое имя!'))
+greeting(prompt('Введите свое имя!'));
